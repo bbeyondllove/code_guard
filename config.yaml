@@ -1,0 +1,4 @@
+APIServer: "https://api.siliconflow.cn"
+Model: "Qwen/Qwen2.5-VL-72B-Instruct"
+API_KEY: ""
+Language: "zh"
